@@ -7,7 +7,7 @@
 - Built-in Hepa filter removes floating microplastics.
 - 3-layer activated carbon filter
 
-##Parts Printing
+## Parts Printing
 - Layer height 0.2mm, Extrusion width 0.4mm, Wall count 4, Top/Bottom layers 8, Infill 40%.
 - All parts do not require support.
 
