@@ -1,7 +1,8 @@
 # Activated Carbon Filter 7530 for VORON TRIDENT
 
-<img src="img/pic1.jpg" width="70%">
+<img src="img/pic1.jpg" width="70%"><br>
 <img src="img/pic2.jpg" width="70%"><br>
+<img src="img/pic3.jpg" width="70%"><br>
 
 ## Feature
 - Built-in Hepa filter removes floating microplastics.
